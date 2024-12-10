@@ -1,0 +1,11 @@
+flask
+scikit-learn
+numpy
+pandas
+nltk
+transformers
+torch
+spacy
+fuzzywuzzy
+python-Levenshtein
+streamlit
